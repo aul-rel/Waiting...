@@ -3,7 +3,7 @@ body{
     font-family:'Times New Roman', Times, serif;
 }
 .waiting{
-    display: block;
+    position: absolute;
     text-align: center;
     font-size: 30px;
     color: white;
